@@ -57,11 +57,7 @@ $sql ="SELECT * FROM `handworker_job_earnings` where book_id = ".$_GET['job_id']
         <br>
 
         <input type="submit" value="add earning"></input>
-       
-
     </form>
-
-
 </div>
 
 <div class="container-fluid" style="background-color: #323232;">
