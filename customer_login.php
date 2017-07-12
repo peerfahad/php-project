@@ -14,8 +14,6 @@ session_start();
  <ul id="menu_login" class="list-inline" style="display: inline-block;  color: white; font-family: 'proxima-nova', sans-serif;">
  <li ><a class="btn btn-default" href="home.php">Home</a></li>
 	<li><a class="btn btn-default" href="List_of_Handworkers.php">List of handworker</a></li>
-
-
 	
 	<!-- <li><a href="hw_book.php">Handwoker Booking</a></li> -->
 	<!-- if customer is logged in show wellcome -->
