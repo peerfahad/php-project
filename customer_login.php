@@ -104,8 +104,6 @@ exit;
 			</div>
 		</div>
 </div>
-
-	
 <div class="container-fluid" style="background-color: #323232;">
 <?php include "footer.php"; ?>
 	
