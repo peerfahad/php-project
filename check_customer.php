@@ -11,10 +11,4 @@ if(isset($login_session)){
 	
 }
 
-
-
-
-
-
-
 ?>
