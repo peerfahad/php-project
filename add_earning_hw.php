@@ -20,8 +20,6 @@ $total_days = $_POST['total_days'];
 $total_months = $_POST['total_months'];
 $total_amount_earned = $_POST['total_amount_earned'];
 
-
-
 $sql = "INSERT INTO handworker_job_earnings (`book_id`, `total_hours`, `total_days`, `total_months`, `total_amount_earned`) 
 	VALUES ('$book_id','$total_hours','$total_days','$total_months','$total_amount_earned')";
 
