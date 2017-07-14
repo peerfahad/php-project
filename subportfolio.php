@@ -8,7 +8,6 @@
 
 <div class="subportfolio">
 
-
     <h2 style="padding-left: 20px;
     color: rgba(2, 24, 88, 0.68);text-align: center;font-weight: 900;padding-bottom: 40px;padding-top: 40px;font-size: -webkit-xxx-large;">Portfolio</h2>
     <?php
