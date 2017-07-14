@@ -32,10 +32,5 @@ $sql = "INSERT INTO handworker_job_earnings (`book_id`, `total_hours`, `total_da
 }
 
 mysqli_close($conn);
-
-
-
 ?>
-
-
  ?>
