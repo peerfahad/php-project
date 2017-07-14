@@ -55,10 +55,6 @@ $sql ="SELECT * FROM view_handworkerwithcats where user_id = ".$hw_id;
     <a style="    margin-top: 15px;" class="btn btn-primary" href="handworker_my_job.php?hw_id=<?php echo $_GET["hw_id"]; ?>">Handworker my booking</a>
   <?php } ?>
   
-   
-  
-
-   
     <?php
         }
         } else {
