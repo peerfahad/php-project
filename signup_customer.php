@@ -52,8 +52,7 @@
 	<input name="user_contact" type="text" id="myTextBox" placeholder="Enter User Contact" class="input" required="">
 	</div>
 		</div>
-
-		<div class="col-sm-6 col-xs-12">
+	<div class="col-sm-6 col-xs-12">
 	<div class="main">
 	<label>User Name:</label>
 	<input name="user_name" type="text" id="myTextBox" placeholder="Enter User Name" class="input" required="">
