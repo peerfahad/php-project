@@ -78,8 +78,7 @@
 </div>	
 </div>
 <div class="container-fluid" style="background-color: #323232;">
-<?php include "footer.php"; ?>
-	
+<?php include "footer.php"; ?>	
 </div>
 
 </body>
