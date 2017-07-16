@@ -37,8 +37,6 @@
 <div class="col-sm-6 col-xs-12">
 <div class="main">
 <form  method="POST" action="dal/insert_customer.php" enctype="multipart/form-data">
-		
-
 	<input name="user_type" type="hidden" value="Customer"  id="myTextBox" placeholder="Enter User Type" class="input">
 	</div>
 	<div class="main">
