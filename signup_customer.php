@@ -2,7 +2,6 @@
 <html>
 <head>
 <?php include "links.php"; ?>
-
 	<title>Signup Customer</title>
 /head>
 <body>
