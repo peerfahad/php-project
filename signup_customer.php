@@ -72,8 +72,7 @@
 		<br>
 		<p>Do You Have an account?<a href="#">Login</a></p>
 	</div>
-</form>
-	
+</form>	
 </div>	
 </div>	
 </div>	
