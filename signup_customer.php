@@ -65,8 +65,7 @@
 	<label>Address:</label>
 	<input name="user_address" type="text" id="myTextBox" placeholder="Enter Address" class="input" required="">
 	</div>
-
-		</div>
+</div>
 	<div class="sub">
 		<button type="submit" name="Register" class="btn btn-success" style="padding: 6px 15px;">Submit</button>
 		<br>
