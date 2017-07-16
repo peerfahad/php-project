@@ -4,8 +4,7 @@
 <?php include "links.php"; ?>
 
 	<title>Signup Customer</title>
-
-</head>
+/head>
 <body>
 <style type="text/css">
 	body{
