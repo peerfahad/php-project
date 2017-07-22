@@ -39,7 +39,6 @@ exit;
 <li style="background-color: currentColor;width: 134px;"><a href="login.php">Handoworker Login</a></li>
 <li style="background-color: currentColor; width: 167px;"><a href="signup_handworker.php">Handworker Registration</a></li>
 <li style="background-color: currentColor;"><a href="signup_customer.php">Customer Registration</a></li>
-
 </ul>
 <?php }  ?>
 	</div>
@@ -52,7 +51,6 @@ exit;
               <p style="    font-family: arial;color: #034178;font-weight: bold;font-size: 17px;letter-spacing: 2px; padding-left: 17px; ">The new way to Hire Handworker </p>
               </div>
                       </div>
-
 </div>
 
 
