@@ -2,10 +2,8 @@
    <?php include "navigation.php"; ?>
 </div>
 </div>
-
 <?php include "logo.php"; ?>
          </div>
-
 </div>
 
 <div class="container-fluid slider" style= "background-position: center;background-size:cover;">
