@@ -10,9 +10,7 @@ $sql ="SELECT * FROM `handworker_job_earnings` where book_id = ".$_GET['job_id']
 <!DOCTYPE html>
 <html>
 <head>
-
 <?php include "links.php"; ?>
- 
 <script type="text/javascript">
 	$(document).ready(function() {
     $('#example').DataTable();
