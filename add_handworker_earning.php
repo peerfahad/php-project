@@ -5,8 +5,7 @@
 $sql ="SELECT * FROM `handworker_job_earnings` where book_id = ".$_GET['job_id'];
     
     $result = mysqli_query($conn, $sql);
-    
-   
+       
     ?>
 <!DOCTYPE html>
 <html>
