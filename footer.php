@@ -28,7 +28,5 @@
 <h5 style="font-weight: bolder;">M.Tasadduq Mughal</h5>
 <h5 style="font-weight: bolder;">Muhammad Faran</h5>
 <h5 style="font-weight: bolder;">Muhammad khan</h5>
- 
-</div>
- 
+</div> 
 </div>
