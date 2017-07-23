@@ -62,7 +62,6 @@
 </div>
     </form>
 </div>
-
 <div class="container-fluid" style="background-color: #323232;">
 <?php include "footer.php"; ?>
 	<script type="text/javascript" src="js/gethwofcategories.js"></script>
