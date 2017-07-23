@@ -59,7 +59,6 @@
         <input style="margin: 10px 10px;" type="text" name="time">
         <br>
         <input type="submit" value="book"></input>
-       
 </div>
     </form>
 
