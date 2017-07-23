@@ -2,8 +2,7 @@
 <?php  include "navigation.php";
     if(!isset($login_session)) {
 
-    header("location:customer_login.php");
-    
+    header("location:customer_login.php"); 
 }
 
  ?>
