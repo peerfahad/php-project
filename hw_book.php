@@ -6,8 +6,7 @@
 }
 
  ?>
-
-	</div>
+</div>
 </div>
 <?php include "logo.php"; ?>
          </div>
