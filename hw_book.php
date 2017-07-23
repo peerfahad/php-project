@@ -44,8 +44,7 @@
             ?>
         </select>
         <br>
-
-        <label style="padding-right: 20px;">handworker</label>
+      <label style="padding-right: 20px;">handworker</label>
         <select id="handworker_id" name="handworker_id" style="margin: 10px 10px;" >
             <option value="0" style="color: black;">Select handworker</option>
         </select>
