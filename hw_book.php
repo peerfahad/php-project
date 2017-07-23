@@ -4,7 +4,6 @@
 
     header("location:customer_login.php"); 
 }
-
  ?>
 </div>
 </div>
