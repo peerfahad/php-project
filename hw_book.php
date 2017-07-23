@@ -12,7 +12,6 @@
 
 </div>
 <div class="container-fluid back">
-
 <h2 style="font-weight: 900;
     padding-bottom: 30px;
     padding-left: 18px;
