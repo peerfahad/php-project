@@ -61,8 +61,6 @@
         <input type="submit" value="book"></input>
 </div>
     </form>
-
-
 </div>
 
 <div class="container-fluid" style="background-color: #323232;">
