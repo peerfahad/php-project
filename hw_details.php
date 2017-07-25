@@ -39,8 +39,7 @@ if( $customer !="Customer") {
          font-weight: bold;
          font-family: cursive;padding-top: 20px;
     padding-bottom: 20px;color: cornsilk;">Handworker Detail</p>
-	
-</div>
+	</div>
 </div>
 
 <div id="profile" class="container-fluid" style="background-color: aliceblue;">
