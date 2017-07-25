@@ -1,8 +1,4 @@
-<?php   
-    include_once('login_hw/session_hw.php');
-
-
-?>
+<?php   include_once('login_hw/session_hw.php'); ?>
 <!DOCTYPE html>
 <html>
 <head>
