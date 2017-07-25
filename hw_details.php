@@ -10,7 +10,6 @@
 <div class="row">
 <?php include "navigation.php"; ?>
 	</div>
-
   <?php
   if(isset($row["user_type"])){
     $customer = $row["user_type"] ;
@@ -18,7 +17,6 @@
     $customer = "" ;
   }
   
-
 if( $customer !="Customer") {
     if(!isset($_SESSION['hw_login_user'])){
     $host  = $_SERVER['HTTP_HOST'];
