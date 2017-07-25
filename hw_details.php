@@ -31,7 +31,6 @@ if( $customer !="Customer") {
 
 <?php include "logo.php"; ?>
          </div>
-
 </div>
 <div class="container-fluid" style="background-color: rgba(128, 128, 128, 0.55);">
 <div class="container">
